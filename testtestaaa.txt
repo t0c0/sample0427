@@ -1,10 +1,6 @@
-1234nashi
-test3333
-<<<<<<< HEAD
-=======
 new1234567
 0000
 BBBBBB
 upupup
 OKOKOK
->>>>>>> 3a7987382d1fce5e248024a8c7bbc06669f5e60c
+

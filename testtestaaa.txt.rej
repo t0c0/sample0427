@@ -1,0 +1,10 @@
+diff a/testtestaaa.txt b/testtestaaa.txt	(rejected hunks)
+@@ -3,4 +3,6 @@
+ test3333
+ new1234567
+ 0000
+-mmmmmm
+\ No newline at end of file
++BBBBBB
++upupup
++OKOKOK
